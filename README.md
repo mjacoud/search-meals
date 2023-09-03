@@ -28,4 +28,4 @@ This project was made to improve my knowledge of Vue and the integration of fron
 
 <br>
 
-[⭐ Acesse a pagina clicando aqui ⭐]()
+[⭐ Acesse a pagina clicando aqui ⭐](https://search-meals.pages.dev/)
