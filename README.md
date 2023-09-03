@@ -3,7 +3,7 @@ This project was made to improve my knowledge of Vue and the integration of fron
 
 ## Layout
 
-<img src="mockup.png" />
+<img src="/mockup.png" />
 
 ## Funcionalidades
 - Get Random Meals.
